@@ -8,7 +8,7 @@ This project was developed to connect with a robust, cloud-hosted **Java Spring 
 
 This application was developed during the academic semester of **Special Topics in Computing: Trending Information Technologies** at **Unisinos (06/2025)**.
 
-The primary focus of this project was the implementation of a **Serverless-Managed Backend** structure on Amazon Web Services (AWS), utilizing the following services:
+The central objective of this project was the implementation and integration with a **Serverless and Managed Backend** architecture hosted on **Amazon Web Services (AWS)**, utilizing the following services:
 
 | Component | Service | Role |
 | :--- | :--- | :--- |
